@@ -2,16 +2,16 @@
   "format_version": 2,
   "header": {
     "name": "Copper Trading for Villagers",
-    "description": "Allows copper to be traded with villagers for emeralds. This version of the behaviour pack gives a chance for copper trades (At apprentice level) for Tool Smiths, Weapon Smiths, and Armourers. Armourers offer Copper Armour in addition to the vanilla iron armour for level 1 trades",
+    "description": "Allows copper to be traded with villagers for emeralds. Gives a chance for copper trades (At apprentice level) for Tool Smiths, Weapon Smiths, and Armourers. Armourers offer Copper Armour in addition to the vanilla iron armour for level 1 trades",
     "uuid": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
-    "version": [1, 0, 1],
+    "version": [1, 0, 2],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "data",
       "uuid": "ffffffff-1111-2222-3333-444444444444",
-      "version": [1, 0, 1]
+      "version": [1, 0, 2]
     }
   ]
 }
