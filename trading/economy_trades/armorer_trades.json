@@ -407,7 +407,7 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": { "min": 19, "max": 33 },
+                  "quantity": 14,
                   "price_multiplier": 0.2
                 }
               ],
@@ -435,7 +435,7 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": { "min": 13, "max": 27 },
+                  "quantity": 8,
                   "price_multiplier": 0.2
                 }
               ],
@@ -473,7 +473,7 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": { "min": 13, "max": 27 },
+                  "quantity": 8,
                   "price_multiplier": 0.2
                 }
               ],
@@ -501,7 +501,7 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": { "min": 21, "max": 35 },
+                  "quantity": 16,
                   "price_multiplier": 0.2
                 }
               ],

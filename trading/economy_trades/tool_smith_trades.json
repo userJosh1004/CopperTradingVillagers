@@ -207,7 +207,7 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": { "min": 6, "max": 20 },
+                  "quantity": 1,
                   "price_multiplier": 0.2
                 }
               ],
@@ -235,7 +235,7 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": { "min": 7, "max": 21 },
+                  "quantity": 2,
                   "price_multiplier": 0.2
                 }
               ],
@@ -263,7 +263,7 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": { "min": 8, "max": 22 },
+                  "quantity": 3,
                   "price_multiplier": 0.2
                 }
               ],
@@ -349,7 +349,7 @@
               "gives": [
                 {
                   "item": "minecraft:diamond_axe",
-                  "quantity": { "min": 17, "max": 31 },
+                  "quantity": 12,
                   "functions": [
                     {
                       "function": "enchant_with_levels",
@@ -370,7 +370,7 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": { "min": 10, "max": 24 },
+                  "quantity": 5,
                   "price_multiplier": 0.2
                 }
               ],
@@ -408,7 +408,7 @@
               "wants": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": { "min": 18, "max": 32 },
+                  "quantity": 13,
                   "price_multiplier": 0.2
                 }
               ],
